@@ -6,12 +6,7 @@ $config = array(
 );
 
 $db = array(
-	'dsn'=> 'mysql:charset=UTF8;host=localhost;dbname=microsites', 
-	'username'=>'root', 
-	'password'=>'riavera'
+	'dsn'=> 'mysql:charset=UTF8;host=localhost;dbname=fwork', 
+	'username'=>'uname', 
+	'password'=>'password'
 );
-//$db = array(
-//	'dsn'=> 'mysql:charset=UTF8;host=webhomecamcom.fatcowmysql.com;dbname=testtrans', 
-//	'username'=>'trans', 
-//	'password'=>'trans1234'
-//);
