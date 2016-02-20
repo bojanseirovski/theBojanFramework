@@ -1,0 +1,21 @@
+{
+    "name": "bojanseirovski/theBojanFramework",
+    "description": "Light RESTfull framework, accepts JSON POST, HTTP POST and GET , returns JSON",
+    "keywords": ["rest", "json"],
+    "homepage": "http://github.com/bojanseirovski/theBojanFramework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bojan Seirovski",
+            "email": "bojan@seirovski.com",
+            "homepage": "http://seirovski.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-4": {"theBojanFramework\\": "."}
+    }
+}
